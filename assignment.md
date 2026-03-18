@@ -1,7 +1,8 @@
 # Senior DevOps Engineer – Home Assignment
 
-**Time budget:** 4–6 hours  
+**Time budget:** 4–6 hours (or 1-2 hours with LLM Agent)  
 **Deliverable:** GitHub repository (link to be submitted)
+**LLM and AI agents:** Are welcome and recommended to use (Claude, Cursor, Copilot, Gemini or similar)
 
 ---
 
